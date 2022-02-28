@@ -1,4 +1,4 @@
-# Backflow_Defects
+# Quantum Backflow_Defects
 Fortran code for quantum backflow for the Schrodinger equation in the presence of a jump defect.
 Calculate the lowest eigenvalue of the probability flux operator (as a Kernel)
 on the real line with a defect placed at the origin. Additionally, it adjusts the Kernel with
