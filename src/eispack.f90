@@ -4,7 +4,7 @@ contains
 
 subroutine bakvec ( n, t, e, m, z, ierr )
 
-!*****************************************************************************80
+!******************************************************************************80
 !
 !! BAKVEC determines eigenvectors by reversing the FIGI transformation.
 !
