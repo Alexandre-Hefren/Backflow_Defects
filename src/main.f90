@@ -221,7 +221,7 @@ program jump
 ! end do
 
 !finished original writing process here
-!from here I call the code for working out the fixed conservation
+!from here I call the code for working out the fixed conservation of momentum
 
 do test = 0, MODEL_X_STEPS
     x_test = MODEL_X_LOW + test*interval
