@@ -162,7 +162,7 @@ program jump
 
     write(4,'(a)') "POINTS = ["
 
-!original code start writting here. may comment it all
+!Previously, started  writting here; may comment it all
 
 ! do test = 0, MODEL_X_STEPS
 !     x_test = MODEL_X_LOW + test*interval
